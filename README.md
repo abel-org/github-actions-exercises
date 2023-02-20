@@ -49,8 +49,7 @@ Below are exercises to help you in your Actions journey. They build on each othe
 15. [Caching](./15-Caching.md)
 16. [Packages & continuous celivery](./16-Packages-And-Continuous-Delivery.md)
 17. [Environments & continuous deployment](./17-Environments-And-Continuous-Deployment.md)
-18. Releases & Tags (under construction)
-19. Creating Your Own Actions (under construction)
+
 
 ---
 
